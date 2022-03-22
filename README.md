@@ -1,4 +1,4 @@
-# live-chat
+#  Live-Chat Room with Vue 3 and composition API using firebase.
 
 ## Project setup
 ```
@@ -14,4 +14,4 @@ npm run serve
 ```
 npm run build
 ```
-LiveChat Room with Vue 3 and composition API using firebase.
+
