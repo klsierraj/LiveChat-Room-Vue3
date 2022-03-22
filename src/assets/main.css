@@ -1,0 +1,37 @@
+body {
+background-color: e31ff;
+color: #444;
+}
+
+.container {
+    width: 90%;
+    max-width: 960px;
+    margin: 80px auto;
+    border-radius: 20px;
+    box-shadow: 2px 4px 6px rgba(28,6,49, 0.1);
+    background: white;
+}
+
+.error {
+    color: #ff3f80;
+    font-size: 14px;
+}
+
+button {
+    text-decoration: none;
+    background: #5ae4ca;
+    color: white;
+    font-weight: bold;
+    border: 0;
+    border-radius: 20px;
+    margin-top: 15px;
+    padding: 10px 20px;
+}
+
+.welcome span {
+    cursor: pointer;
+    border-bottom: 2px solid #5ae4ca;
+}
+.welcome span:hover {
+    color: #5ae4ca;
+}
